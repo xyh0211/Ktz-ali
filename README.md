@@ -1,4 +1,4 @@
-### 你好 👋<a href="https://github.com/Ktz-ali/Ktz-ali/README.md"><img align="right" src="https://komarev.com/ghpvc/?username=HdShare&label=Views"></a>
+### 你好 👋<a href="Ktz-ali/README.md"><img align="right" src="https://komarev.com/ghpvc/?username=HdShare&label=Views"></a>
 
 <table align="center">
     <tr>
