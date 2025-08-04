@@ -97,16 +97,6 @@
 
 ### 📈 项目数据统计
 <div align="center">
-  <a href="https://github.com/Ktz-ali">
-    <img src="https://img.shields.io/github/followers/Ktz-ali?label=GitHub粉丝&logo=github&style=flat-square&color=181717" alt="GitHub粉丝">
-  </a>
-  <a href="https://github.com/Ktz-ali?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Ktz-ali?label=项目收藏&logo=github&style=flat-square" alt="项目收藏">
-  </a>
-  <a href="https://github.com/Ktz-ali">
-    <img src="https://img.shields.io/github/last-commit/Ktz-ali/Ktz-ali?label=最后更新&logo=github&style=flat-square" alt="最后更新">
-  </a>
-  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ktz-ali&theme=github_dark" alt="GitHub活动图表">
 </div>
 
