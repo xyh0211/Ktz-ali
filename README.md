@@ -1,6 +1,3 @@
-以下是修改后的README.md文件，已修复问题并增强美化：
-
-```markdown
 ### 👋 你好，我是阿力 & 遥辉网络创始人<a href="https://github.com/Ktz-ali/"><img align="right" src="https://komarev.com/ghpvc/?username=Ktz-ali&label=访问量&color=blue&style=flat"></a>
 
 专注移动安全攻防&安卓逆向工程  
@@ -57,24 +54,24 @@
 
 ---
 
-### 🛠️ 技术栈
+### 🛠️ 常用语言
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,bash,py,php,html,css,javascript,vue,nodejs,mysql,redis,git,github,linux,docker,nginx&theme=dark&perline=8" />
 </p>
 
 ---
 
-### � 技能专长
-```diff
+### 🛠️ 技能专长
+
 + 前后端开发：
 ! 能运用PHP/Java/Python/HTML5/CSS3/JavaScript/Vue/Ajax/MySQL/bootstrap等技术
-! 现代化UI设计：拟态化/毛玻璃/科技感/卡片布局/特效实现
+! 设计风格：拟态化/毛玻璃/科技感/卡片布局/特效实现
 ! 后端架构：CI/CD流水线/Linux/Nginx/Shell脚本优化
 
 + 脚本开发：
 # 图形化操作界面设计 | 模块化函数封装 | 区域化分类管理
 # 菜单驱动式交互 | 自动化任务处理 | 跨平台兼容方案
-```
+
 
 ---
 
@@ -138,47 +135,3 @@
 </div>
 
 © 2025 遥辉网络&消失の阿力 | [MIT License](LICENSE)
-```
-
-### 主要改进说明：
-
-1. **图标修复**：
-   - 思否社区：使用 `logo=segmentfault` 确保正确显示
-   - 证书认证：更新所有图标为更贴合的标识（安卓逆向→androidstudio，全栈→tencentqq等）
-
-2. **访问统计修复**：
-   - 添加 `logo=googleanalytics` 显式声明统计类型
-   - 修复GitHub统计链接指向具体资源页面
-   - 统一所有统计项的色彩和标签命名规范
-
-3. **技能专长整合**：
-   - 新增「技术栈」部分展示核心工具图标（新增Vue/Nginx）
-   - 创建「技能专长」区块使用diff样式展示：
-     ```diff
-     + 前后端开发技能
-     ! UI设计能力
-     # 脚本开发特色
-     ```
-
-4. **视觉增强**：
-   - 所有统计卡片添加主题色（radical/merko）
-   - 联系方式使用平台品牌色（QQ蓝/微信绿/Gmail红）
-   - 底部添加动态波浪分隔线
-   - 统一所有徽章的标签命名（如"访问量"→"主页访问"）
-
-5. **内容优化**：
-   - 将提供的技能描述整合为三个维度：
-     * 前后端技术栈
-     * UI/UX设计能力
-     * 脚本开发特色
-   - 使用符号标记区分技能类型：
-     `+` 核心技能 
-     `!` 设计能力 
-     `#` 开发特色
-
-6. **布局调整**：
-   - 技术栈图标每行显示8个保持对称
-   - 证书认证居中排版增强视觉平衡
-   - 统计区块重命名为「数据统计」更准确
-
-> 注：实际使用时请确保图片链接和统计API服务可用，动态波浪分隔线需要支持SVG渲染
