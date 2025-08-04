@@ -7,7 +7,7 @@
 
 ---
 
-### 🌐 我的平台  
+### 🌐 我的其它平台
 [![个人主页](https://img.shields.io/badge/个人主页-ktzali.cn-2CA5E0?logo=homeassistant&logoColor=white)](http://www.ktzali.cn)
 [![技术博客](https://img.shields.io/badge/技术博客-94ali.top-FF5722?logo=blogger&logoColor=white)](http://www.94ali.top)
 [![Gitee](https://img.shields.io/badge/Gitee-Ktz--ali-C71D23?logo=gitee&logoColor=white)](https://gitee.com/Ktz-ali)
@@ -18,7 +18,7 @@
 
 ---
 
-### 📊 技术足迹
+### 📊 技术足迹统计
 <table align="center">
     <tr>
         <td align="center">
@@ -36,7 +36,7 @@
 
 ---
 
-### 🚀 精选项目
+### 🚀 精选项目推荐
 <table align="center">
     <tr>
         <td align="center">
@@ -54,28 +54,28 @@
 
 ---
 
-### 🛠️ 常用语言
+### 🛠️ 常用语言工具
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,bash,py,php,html,css,javascript,vue,nodejs,mysql,redis,git,github,linux,docker,nginx&theme=dark&perline=8" />
 </p>
 
 ---
 
-### 🛠️ 技能专长
+### 🛠️ 设计风格专长
 
 + 前后端开发：
-! 能运用PHP/Java/Python/HTML5/CSS3/JavaScript/Vue/Ajax/MySQL/bootstrap等技术
-! 设计风格：拟态化/毛玻璃/科技感/卡片布局/特效实现
-! 后端架构：CI/CD流水线/Linux/Nginx/Shell脚本优化
+- 能运用PHP/Java/Python/HTML5/CSS3/JavaScript/Vue/Ajax/MySQL/bootstrap等技术  
+- 设计风格：拟态化/毛玻璃/科技感/卡片布局/特效实现  
+- 后端架构：CI/CD流水线/Linux/Nginx/Shell脚本优化  
 
 + 脚本开发：
-# 图形化操作界面设计 | 模块化函数封装 | 区域化分类管理
-# 菜单驱动式交互 | 自动化任务处理 | 跨平台兼容方案
+- 图形化操作界面设计 | 模块化函数封装 | 区域化分类管理  
+- 菜单驱动式交互 | 自动化任务处理 | 跨平台兼容方案  
 
 
 ---
 
-### 📜 证书认证
+### 📜 荣誉证书认证
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/移动安全工程师-高级-4CAF50?logo=android" alt="移动安全工程师">
@@ -96,7 +96,7 @@
 
 ---
 
-### 📈 数据统计
+### 📈 项目数据统计
 <p align="center">
   <!-- 主页统计 -->
   <a href="http://www.ktzali.cn">
@@ -117,7 +117,7 @@
 
 ---
 
-### 📞 联系方式
+### 📞 联系我的方式
 <p align="center">
   <a href="https://qm.qq.com/q/DBDjD6OcIS">
     <img src="https://img.shields.io/badge/QQ-1728031575-12B7F5?logo=tencentqq" alt="QQ">
